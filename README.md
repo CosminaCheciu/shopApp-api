@@ -20,7 +20,8 @@ LoginController:
   POST/loginWithGoogle:
   Acest api este folosit pentru logarea cu google.Acesta trimite un jwt frontendului pe care urmeaza sa-l foloseasca ca authorization pentru fiecare call.
 
-ShopController:- ![image](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
+ShopController:- 
+![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/ProductController.png)
 
    POST/shops
    Acest api este folosit pentru a adauga un magazin.
