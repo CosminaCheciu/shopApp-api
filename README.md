@@ -67,14 +67,18 @@ Servicii cloud:
 Aplicatia foloseste login cu google.Aceasta primeste token-ul de la google pe care il trimite pe backend.Token-ul este verificat pe backend, 
 iar apoi este trimis un jwt pe frontend pentru a fi utilizat ca authorization.
 Pe backend s-a folosit websecurity si jwt filter pentru securitatea aplicatiei.
--vezi BackLog
--vez FrontLog
+![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/BackLog.png)
+
+![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/FrontLog.png)
 Pentru rulare locala:
 Pentru a rula local aveti nevoie sa va instalati un ide pentru java, angular si postgresql 12.5.Porturile folosite sunt 5432-data base, 8080-backend, 4200-frontend.
 
 GitHub:
+
 Backend: https://github.com/CosminaCheciu/shopApp-api.git -master branch
+
 Frontend: https://github.com/CosminaCheciu/shopApp-ui.git -master branch
+
 
 
 
