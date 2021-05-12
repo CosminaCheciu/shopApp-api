@@ -79,7 +79,7 @@ LogIn Page:
 
 Shops Page:
 
-![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/LogIn.png)
+![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/Shops2.png)
 
 Products Page:
 
