@@ -73,6 +73,18 @@ Pe backend s-a folosit websecurity si jwt filter pentru securitatea aplicatiei.
 Pentru rulare locala:
 Pentru a rula local aveti nevoie sa va instalati un ide pentru java, angular si postgresql 12.5.Porturile folosite sunt 5432-data base, 8080-backend, 4200-frontend.
 
+LogIn Page:
+
+![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/LogIn.png)
+
+Shops Page:
+
+![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/LogIn.png)
+
+Products Page:
+
+![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/Products.png)
+
 GitHub:
 
 Backend: https://github.com/CosminaCheciu/shopApp-api.git -master branch
