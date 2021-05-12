@@ -34,6 +34,7 @@ ShopController:-
 
 ProductController:
 
+
    Post/products
    Acest api este folosit pentru a adauga un produs.
    
@@ -46,6 +47,9 @@ ProductController:
    GET/products/{shopId}
    Acest api este folosit pentru a returna toate produsele dintr-o lista.
    
+   
+   
+  
 
 Descriere ui:
 Pe partea de frontend am folosit angular cu angular material.Call-urile catre backend sunt de tip http. ex:- vezi Calls din images
