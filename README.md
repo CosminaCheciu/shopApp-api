@@ -21,7 +21,9 @@ LoginController:
   Acest api este folosit pentru logarea cu google.Acesta trimite un jwt frontendului pe care urmeaza sa-l foloseasca ca authorization pentru fiecare call.
 
 ShopController:- 
+
 ![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/ProductController.png)
+
    POST/shops
    Acest api este folosit pentru a adauga un magazin.
    
@@ -52,7 +54,10 @@ ProductController:
   
 
 Descriere ui:
-Pe partea de frontend am folosit angular cu angular material.Call-urile catre backend sunt de tip http. ex:- vezi Calls din images
+Pe partea de frontend am folosit angular cu angular material.Call-urile catre backend sunt de tip http. ex:
+
+![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/Calls.png)
+
 Flux de date:
 Toate datele pe care userul le adauga vor fi salvate in baza de date (inclusiv datele de logare).Cand userul porneste aplicatia acesta va trebui sa se logeze.
 Va fi trimis in home page unde isi poate adauga cate magazine doreste.Cand se apasa click pe un magazin se deschide o pagina noua unde se poate adauga lista de produse.
