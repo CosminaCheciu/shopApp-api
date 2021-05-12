@@ -22,11 +22,12 @@ LoginController:
 
 ShopController:- 
 ![image](https://github.com/CosminaCheciu/shopApp-api/blob/master/images/ProductController.png)
-
    POST/shops
    Acest api este folosit pentru a adauga un magazin.
+   
    POST/shops/{shopId}
    Acest api este folosit pentru a sterge un magazin.
+   
    GET/shops/{userId}
    Acest api este folosit pentru a returna toate magazinele.
 
